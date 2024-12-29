@@ -1,0 +1,6 @@
+# 【修复】【实用性强】多通道会员返现系统，返利系统，完美无错！
+
+售前须知<br>example.com，可复制性高，一旦发货，不接收退货退款；<br>example.com，所以目前不支持任何技术服务；<br>example.com，可联系店主：<br>商讨好合适的手工服务费，即可替您提供技术支持<br>example.com，不含安装费~<br>多通道会员返现系统<br>　　多通道会员返现系统<br>　　程序安装环境：<br>　　安装环境要求：PHP+MYSQL<br>　　空间需求：空间200M以上，数据库50M以上<br>　　本系统是核心就是返现，作为商业促销手段，可以配合大型商城、超市及其他行业进行商业促销。<br>　　一、程序后台功能介绍<br>　　1、批量生成返钱卡号和密码，可以导出卡号文件功能。<br>　　2、后台可自由设置返钱参数，随意增加返钱通道，参数配置，自由选择。<br>　　3、可看到返钱状态包括正在排队的卡、待返钱的卡、已返钱的卡，清晰明了方便管理。<br>　　二、部分功能介绍<br>　　排队:注册会员后会员中心输入返钱卡号和密码后自动排队，可看到当前排队的状态，至于排多少个可以返钱，可以在后台基本设置里修改参数。默认是25个 返100， 你可以改成排20个返100都行自己决定。返钱的通道可以随意的增加，可以增加100元面值的通道，200元的面值通道，500元的等等。会员登记排队后可以填写收款信息，在后台可以看到，当排队成功后根据后台的提示给会员返钱。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/PvtNx" style="color: red;">https://mega-file.org/PvtNx</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
